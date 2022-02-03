@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://sandbox-api.tratta.io",
+  "env": {
+    "api_token": "<YOUR_API_TOKEN>"
+  }
+}
